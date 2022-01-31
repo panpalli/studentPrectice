@@ -1,2 +1,2 @@
-# studentPrectice
+# studentPrectices
 for local remote
